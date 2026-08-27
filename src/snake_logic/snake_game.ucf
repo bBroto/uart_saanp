@@ -1,0 +1,30 @@
+NET "clk" LOC = p84;
+
+NET "reset_n" LOC = p22;
+
+NET "hsync" LOC = p111;
+NET "vsync" LOC = p112;
+
+NET "data[0]" LOC = p101;
+NET "data[1]" LOC = p102;
+NET "data[2]" LOC = p104;
+NET "data[3]" LOC = p105;
+NET "data[4]" LOC = p97;
+NET "data[5]" LOC = p98;
+NET "data[6]" LOC = p99;
+NET "data[7]" LOC = p100;
+NET "data[8]" LOC = p92;
+NET "data[9]" LOC = p93;
+NET "data[10]" LOC = p94;
+NET "data[11]" LOC = p95;
+
+
+//Buttons
+
+NET "left" LOC = p44;
+NET "right" LOC = p40;
+NET "up" LOC = p41;
+NET "down" LOC = p45;
+
+
+
